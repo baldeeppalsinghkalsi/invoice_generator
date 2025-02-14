@@ -7,9 +7,15 @@ A **web application** that allows an admin to **add users and their purchase det
 - A **navigation bar** allows switching between adding purchases and viewing history.
 
 ## 📸 Project Screenshots
-🚀 *[Upload screenshots of your app here]*
+### **1️ Add User & Purchase Page**
+![Add User & Purchase](images/add_user.png)
 
----
+### **2️ User Purchases Page**
+![User Purchases](images/user_purchases.png)
+
+### **3 Invoice pdf**
+![Invoice](images/invoice.png)
+
 
 ## ⚡ Features
 ✅ Add users along with their purchase details  
