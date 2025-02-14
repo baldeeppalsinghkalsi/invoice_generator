@@ -8,13 +8,13 @@ A **web application** that allows an admin to **add users and their purchase det
 
 ## 📸 Project Screenshots
 ### **1️ Add User & Purchase Page**
-![Add User & Purchase](images/add_user.png)
+![Add User & Purchase](images/AddUserPurchases.png)
 
 ### **2️ User Purchases Page**
-![User Purchases](images/user_purchases.png)
+![User Purchases](images/UserPurchases.png)
 
 ### **3 Invoice pdf**
-![Invoice](images/invoice.png)
+![Invoice](images/Invoice.png)
 
 
 ## ⚡ Features
